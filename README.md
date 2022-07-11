@@ -3,8 +3,8 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/WWoshid" target="_blank">
-    <img alt="Twitter: WWoshid" src="https://img.shields.io/twitter/follow/WWoshid.svg?style=social" />
+  <a href="https://twitter.com/WalterWoshid" target="_blank">
+    <img alt="Twitter: WalterWoshid" src="https://img.shields.io/twitter/follow/WalterWoshid.svg?style=social" />
   </a>
 </p>
 
